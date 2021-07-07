@@ -11,20 +11,20 @@
     "sonar": "./sonar/run.sh"
   },
   "dependencies": {
-    "app-root-path": "^2.2.1",
-    "axios": "^0.18.0",
+    "app-root-path": "^3.0.0",
+    "axios": "^0.21.1",
     "is-alphanumeric": "^1.0.0",
-    "node-telegram-bot-api": "^0.40.0"
+    "node-telegram-bot-api": "^0.53.0"
   },
   "devDependencies": {
     "@types/app-root-path": "^1.2.4",
     "@types/axios": "^0.14.0",
-    "@types/body-parser": "^1.17.0",
-    "@types/node": "^11.13.2",
-    "@types/node-telegram-bot-api": "^0.40.0",
-    "nodemon": "^1.19.1",
-    "prettier": "^1.16.4",
-    "sucrase": "^3.10.1"
+    "@types/body-parser": "^1.19.1",
+    "@types/node": "^16.0.1",
+    "@types/node-telegram-bot-api": "^0.51.4",
+    "nodemon": "^2.0.9",
+    "prettier": "^2.3.2",
+    "sucrase": "^3.20.0"
   },
   "repository": {
     "type": "git",
