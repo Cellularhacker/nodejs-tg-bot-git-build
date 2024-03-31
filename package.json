@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "app-root-path": "3.1.0",
-    "axios": "1.1.2",
+    "axios": "1.6.0",
     "is-alphanumeric": "1.0.0",
     "node-telegram-bot-api": "0.59.0"
   },
